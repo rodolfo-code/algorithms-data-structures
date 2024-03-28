@@ -6,8 +6,13 @@ class Program
     {
         Console.WriteLine("Olá, mundo!");
 
-        // ALGORITMO LINEAR - O(n)
-        On_linear(new string[] { "Marcos", "Pedro", "Joao", "Felipe", "Rodolfo" });
+        string[] names = new string[] { "Marcos", "Pedro", "Joao", "Felipe", "Rodolfo" };
+
+        // O(n) - ALGORITMO LINEAR
+        On_linear(names);
+
+        // O(1) - CONSTANTE
+        O1_constant(names);
     }
 
     public static void On_linear(string[] names)
@@ -17,5 +22,10 @@ class Program
             if (name == "Rodolfo")
                 Console.WriteLine(name);
         }
+    }
+
+    public static void O1_constant(string[] names)
+    {
+        Console.WriteLine(names[0]);
     }
 }
