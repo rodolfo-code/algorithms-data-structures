@@ -1,0 +1,15 @@
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\bin\Debug\net7.0\bigONotation.exe
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\bin\Debug\net7.0\bigONotation.deps.json
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\bin\Debug\net7.0\bigONotation.runtimeconfig.json
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\bin\Debug\net7.0\bigONotation.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\bin\Debug\net7.0\bigONotation.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.csproj.AssemblyReference.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.AssemblyInfoInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.AssemblyInfo.cs
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\refint\bigONotation.dll
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.pdb
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\bigONotation.genruntimeconfig.cache
+C:\Users\RodolfoOliveira\Desktop\Repos\algorithms-data-structures\bigONotation\obj\Debug\net7.0\ref\bigONotation.dll
